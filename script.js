@@ -125,3 +125,4 @@ class Calculator {
     calculator.updateDisplay()
   })
 
+  //Test 
